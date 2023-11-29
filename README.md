@@ -1,7 +1,7 @@
 ### Hi there 👋
 😄 輔仁大學 資訊管理學系 
 
-💬 My name is Joanna Huang
+💬 My name is Joanna Huang (黃品瑜)
 
 <!--
 **Joannabubu/Joannabubu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
