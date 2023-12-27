@@ -3,7 +3,7 @@
 
 💬 My name is Joanna Huang (黃品瑜)
 
-😄Study :  輔仁大學 資訊管理學系 
+😄 Study :  輔仁大學 資訊管理學系 
 
 🔭 I’m currently an intern at NEC MIS, working on SAP Success Factor.
 
